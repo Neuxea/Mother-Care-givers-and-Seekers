@@ -1,0 +1,1 @@
+# Local Development\\n\n1. Clone the repository\n2. Copy .env.example to .env and update the values\n3. Install dependencies: npm install\n4. Start the development server: npm run dev\n5. Start the backend server: npm run dev:server\n\nMake sure MongoDB is running locally or update MONGODB_URI with your MongoDB Atlas connection string.
